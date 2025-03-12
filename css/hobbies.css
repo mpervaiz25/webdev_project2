@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', Arial, sans-serif; 
+  line-height: 1.6;
+  margin: 0;
+  background-color: #f4f4f9; /* Light background for the page */
+  color: #333; /* Dark gray text */
+  padding: 0 2rem; /* Add some padding to the content */
+}
+
+header {
+  background-color: #004d40; /* Dark green background */
+  padding: 1em 0;
+}
+
+header nav ul {
+  list-style: none;
+  text-align: center;
+}
+
+header nav ul li {
+  display: inline-block;
+  margin: 0 1em;
+}
